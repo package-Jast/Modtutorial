@@ -5,7 +5,7 @@
 	"name": "Tutorial Mod",
 	"description": "This is a Tutorial Mod made by Kaupenjoe :)",
 	"authors": [
-		"Kaupenjoe!"
+		"jast!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.kaupenjoe.tutorialmod.TutorialMod"
+			"me.jast.tutorialmod.MCcourseMOD"
 		],
 		"client": [
-			"net.kaupenjoe.tutorialmod.TutorialModClient"
+			"me.jast.tutorialmod.MCcourseMODClient"
 		],
 		"fabric-datagen": [
-			"net.kaupenjoe.tutorialmod.TutorialModDataGenerator"
+			"me.jast.tutorialmod.MCcourseMODDataGenerator"
 		]
 	},
 	"mixins": [

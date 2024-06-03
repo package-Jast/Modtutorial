@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "net.kaupenjoe.tutorialmod.mixin",
+	"package": "me.jast.tutorialmod.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+      "MCcourseMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

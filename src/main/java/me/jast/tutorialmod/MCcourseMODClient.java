@@ -1,8 +1,8 @@
-package net.kaupenjoe.tutorialmod;
+package me.jast.tutorialmod;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class TutorialModClient implements ClientModInitializer {
+public class MCcourseMODClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
 
